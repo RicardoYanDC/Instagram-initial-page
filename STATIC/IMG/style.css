@@ -76,7 +76,7 @@ a {
   margin: 1rem 0 1.625rem;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
 }
 .form form .separator::before .form form .separator::after {
   height: 1px;
